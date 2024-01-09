@@ -1,0 +1,3 @@
+--INSERT INTO player (ID, Name, Nationality, Titles) VALUES(1,'Djokovic', 'Serbia', 81);
+--INSERT INTO player (ID, Name, Nationality, Titles) VALUES(2,'Monfils', 'France', 10);
+--INSERT INTO player (ID, Name, Nationality, Titles) VALUES(3,'Isner', 'USA', 15);
